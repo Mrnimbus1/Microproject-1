@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Christmas Tree", "price": 100, "image": "img/tree.jpg" },
+  { "id": 2, "name": "Ornaments", "price": 90, "image": "img/ornaments.jpg" },
+  { "id": 3, "name": "Wreaths", "price": 120, "image": "img/wreaths.jpg" },
+  { "id": 4, "name": "Stockings", "price": 80, "image": "img/stockings.jpg" },
+  { "id": 5, "name": "Tabletop Tree", "price": 50, "image": "img/Tabletree.jpg" },
+  { "id": 6, "name": "Light Strings", "price": 50, "image": "img/lightstrings.jpg" }
+]
